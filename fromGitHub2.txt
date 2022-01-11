@@ -1,0 +1,2 @@
+Fetch just show you that there is an update... Pull get you the updates
+Fetch just show that you do have changes, pull, will get the change
